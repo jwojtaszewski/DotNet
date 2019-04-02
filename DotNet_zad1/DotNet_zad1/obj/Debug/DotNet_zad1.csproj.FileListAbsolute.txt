@@ -1,0 +1,11 @@
+c:\users\kuba\source\repos\DotNet_zad1\DotNet_zad1\bin\Debug\DotNet_zad1.exe.config
+c:\users\kuba\source\repos\DotNet_zad1\DotNet_zad1\bin\Debug\DotNet_zad1.exe
+c:\users\kuba\source\repos\DotNet_zad1\DotNet_zad1\bin\Debug\DotNet_zad1.pdb
+c:\users\kuba\source\repos\DotNet_zad1\DotNet_zad1\obj\Debug\DotNet_zad1.csproj.CoreCompileInputs.cache
+c:\users\kuba\source\repos\DotNet_zad1\DotNet_zad1\obj\Debug\DotNet_zad1.exe
+c:\users\kuba\source\repos\DotNet_zad1\DotNet_zad1\obj\Debug\DotNet_zad1.pdb
+c:\users\kuba\source\repos\DotNet_zad1\DotNet_zad1\obj\Debug\DotNet_zad1.csprojAssemblyReference.cache
+c:\users\kuba\source\repos\DotNet_zad1\DotNet_zad1\bin\Debug\Newtonsoft.Json.dll
+c:\users\kuba\source\repos\DotNet_zad1\DotNet_zad1\bin\Debug\Newtonsoft.Json.pdb
+c:\users\kuba\source\repos\DotNet_zad1\DotNet_zad1\bin\Debug\Newtonsoft.Json.xml
+c:\users\kuba\source\repos\DotNet_zad1\DotNet_zad1\obj\Debug\DotNet_zad1.csproj.CopyComplete
