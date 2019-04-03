@@ -9,3 +9,14 @@ c:\users\kuba\source\repos\DotNet_zad1\DotNet_zad1\bin\Debug\Newtonsoft.Json.dll
 c:\users\kuba\source\repos\DotNet_zad1\DotNet_zad1\bin\Debug\Newtonsoft.Json.pdb
 c:\users\kuba\source\repos\DotNet_zad1\DotNet_zad1\bin\Debug\Newtonsoft.Json.xml
 c:\users\kuba\source\repos\DotNet_zad1\DotNet_zad1\obj\Debug\DotNet_zad1.csproj.CopyComplete
+C:\Users\Kuba\source\repos\DotNet\DotNet_zad1\DotNet_zad1\bin\Debug\DotNet_zad1.exe.config
+C:\Users\Kuba\source\repos\DotNet\DotNet_zad1\DotNet_zad1\bin\Debug\DotNet_zad1.exe
+C:\Users\Kuba\source\repos\DotNet\DotNet_zad1\DotNet_zad1\bin\Debug\DotNet_zad1.pdb
+C:\Users\Kuba\source\repos\DotNet\DotNet_zad1\DotNet_zad1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kuba\source\repos\DotNet\DotNet_zad1\DotNet_zad1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Kuba\source\repos\DotNet\DotNet_zad1\DotNet_zad1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kuba\source\repos\DotNet\DotNet_zad1\DotNet_zad1\obj\Debug\DotNet_zad1.csprojAssemblyReference.cache
+C:\Users\Kuba\source\repos\DotNet\DotNet_zad1\DotNet_zad1\obj\Debug\DotNet_zad1.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\DotNet\DotNet_zad1\DotNet_zad1\obj\Debug\DotNet_zad1.csproj.CopyComplete
+C:\Users\Kuba\source\repos\DotNet\DotNet_zad1\DotNet_zad1\obj\Debug\DotNet_zad1.exe
+C:\Users\Kuba\source\repos\DotNet\DotNet_zad1\DotNet_zad1\obj\Debug\DotNet_zad1.pdb
