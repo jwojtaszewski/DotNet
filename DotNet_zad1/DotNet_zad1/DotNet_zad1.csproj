@@ -51,6 +51,8 @@
     <Compile Include="IHumidity.cs" />
     <Compile Include="IPressure.cs" />
     <Compile Include="ITemperature.cs" />
+    <Compile Include="Measurement.cs" />
+    <Compile Include="Test.cs" />
     <Compile Include="PressureSensor.cs" />
     <Compile Include="Sensor.cs" />
     <Compile Include="TemperatureSensor.cs" />
