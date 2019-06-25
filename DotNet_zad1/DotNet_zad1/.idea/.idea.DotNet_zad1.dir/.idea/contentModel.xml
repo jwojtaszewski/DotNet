@@ -6,6 +6,7 @@
     <e p="C:\Users\Kuba\source\repos\DotNet\DotNet_zad1\DotNet_zad1" t="IncludeRecursive">
       <e p="App.config" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
+      <e p="Client.cs" t="Include" />
       <e p="DotNet_zad1.csproj" t="IncludeRecursive" />
       <e p="HumidityNTemperatureSensor.cs" t="Include" />
       <e p="IHumidity.cs" t="Include" />
