@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59aaf8c1-f104-4b3d-a5e9-05b9b43cb47f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Client.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DotNet_zad1.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DotNet_zad1.dir/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DotNet_zad1.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DotNet_zad1.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DotNet_zad1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DotNet_zad1.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Test.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherStation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherStation.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/DotNet_zad1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/DotNet_zad1.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/DotNet_zad1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/DotNet_zad1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/DotNet_zad1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/DotNet_zad1.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/DotNet_zad1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/DotNet_zad1.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/DotNet_zad1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/DotNet_zad1.pdb" afterDir="false" />
     </list>
@@ -38,16 +34,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WeatherStation.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+            <state relative-caret-position="390">
+              <caret line="43" column="39" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
               <folding>
-                <marker date="1559116279650" expanded="true" signature="6:183" ph="..." />
-                <marker date="1559116279650" expanded="true" signature="214:1607" ph="{...}" />
-                <marker date="1559116279650" expanded="true" signature="396:1605" ph="{...}" />
-                <marker date="1559116279650" expanded="true" signature="579:1159" ph="{...}" />
-                <marker date="1559116279650" expanded="true" signature="591:1149" ph="/* PressureSensor pSensor = new PressureSensor { pressure = 21 }; ... */" />
-                <marker date="1559116279650" expanded="true" signature="1241:1598" ph="{...}" />
-                <marker date="1559116279650" expanded="true" signature="1360:1588" ph="/* foreach (KeyValuePair&lt;string, double&gt; measure in measurements) ... */" />
+                <marker date="1561489458973" expanded="true" signature="6:183" ph="..." />
+                <marker date="1561489458973" expanded="true" signature="214:1706" ph="{...}" />
+                <marker date="1561489458973" expanded="true" signature="396:1704" ph="{...}" />
+                <marker date="1561489458973" expanded="true" signature="579:1159" ph="{...}" />
+                <marker date="1561489458973" expanded="true" signature="591:1149" ph="/* PressureSensor pSensor = new PressureSensor { pressure = 21 }; ... */" />
+                <marker date="1561489458973" expanded="true" signature="1241:1598" ph="{...}" />
+                <marker date="1561489458973" expanded="true" signature="1360:1588" ph="/* foreach (KeyValuePair&lt;string, double&gt; measure in measurements) ... */" />
+                <marker date="1561489458973" expanded="true" signature="1644:1697" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -56,28 +53,28 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="116" column="51" lean-forward="true" selection-start-line="116" selection-start-column="51" selection-end-line="116" selection-end-column="51" />
+            <state relative-caret-position="266">
+              <caret line="55" column="47" lean-forward="true" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
               <folding>
-                <marker date="1561486945177" expanded="true" signature="6:161" ph="..." />
-                <marker date="1561486945177" expanded="true" signature="192:5495" ph="{...}" />
-                <marker date="1561486945177" expanded="true" signature="216:5488" ph="{...}" />
-                <marker date="1561486945177" expanded="true" signature="269:2214" ph="{...}" />
-                <marker date="1561486945177" expanded="true" signature="754:1118" ph="/* ----------------------------------------------------------- ... */" />
-                <marker date="1561486945177" expanded="true" signature="1190:2026" ph="/* -------------------------------------------------------------- ... */" />
-                <marker date="1561486945177" expanded="true" signature="2278:3067" ph="{...}" />
-                <marker date="1561486945177" expanded="true" signature="3002:3057" ph="{...}" />
-                <marker date="1561486945177" expanded="true" signature="3133:3413" ph="{...}" />
-                <marker date="1561486945177" expanded="true" signature="3188:3401" ph="{...}" />
-                <marker date="1561486945177" expanded="true" signature="3213:3387" ph="{...}" />
-                <marker date="1561486945177" expanded="true" signature="3467:5473" ph="{...}" />
-                <marker date="1561486945177" expanded="true" signature="3494:5094" ph="{...}" />
-                <marker date="1561486945177" expanded="true" signature="3525:3740" ph="/* Create a TcpClient. ... */" />
-                <marker date="1561486945177" expanded="true" signature="4081:4184" ph="/* Get a client stream for reading and writing. ... */" />
-                <marker date="1561486945177" expanded="true" signature="4400:4494" ph="/* Receive the TcpServer.response. ... */" />
-                <marker date="1561486945177" expanded="true" signature="4673:4998" ph="/* Read the first batch of the TcpServer response bytes. ... */" />
-                <marker date="1561486945177" expanded="true" signature="5140:5236" ph="{...}" />
-                <marker date="1561486945177" expanded="true" signature="5276:5366" ph="{...}" />
+                <marker date="1561491499345" expanded="true" signature="6:161" ph="..." />
+                <marker date="1561491499345" expanded="true" signature="192:5602" ph="{...}" />
+                <marker date="1561491499345" expanded="true" signature="216:5595" ph="{...}" />
+                <marker date="1561491499345" expanded="true" signature="269:2224" ph="{...}" />
+                <marker date="1561491499345" expanded="true" signature="801:1165" ph="/* ----------------------------------------------------------- ... */" />
+                <marker date="1561491499345" expanded="true" signature="1237:2073" ph="/* -------------------------------------------------------------- ... */" />
+                <marker date="1561491499345" expanded="true" signature="2293:3171" ph="{...}" />
+                <marker date="1561491499345" expanded="true" signature="2808:3129" ph="/* var fileName = @&quot;C:\Users\Kuba\Desktop\JSON_C##\file&quot;+ DateTime.Now.ToString(&quot;--dd-MM-yyyyTHHmm&quot;) +&quot;.json&quot;; ... */" />
+                <marker date="1561491499345" expanded="true" signature="3237:3520" ph="{...}" />
+                <marker date="1561491499345" expanded="true" signature="3292:3508" ph="{...}" />
+                <marker date="1561491499345" expanded="true" signature="3317:3494" ph="{...}" />
+                <marker date="1561491499345" expanded="true" signature="3574:5580" ph="{...}" />
+                <marker date="1561491499345" expanded="true" signature="3601:5201" ph="{...}" />
+                <marker date="1561491499345" expanded="true" signature="3632:3847" ph="/* Create a TcpClient. ... */" />
+                <marker date="1561491499345" expanded="true" signature="4188:4291" ph="/* Get a client stream for reading and writing. ... */" />
+                <marker date="1561491499345" expanded="true" signature="4507:4601" ph="/* Receive the TcpServer.response. ... */" />
+                <marker date="1561491499345" expanded="true" signature="4780:5105" ph="/* Read the first batch of the TcpServer response bytes. ... */" />
+                <marker date="1561491499345" expanded="true" signature="5247:5343" ph="{...}" />
+                <marker date="1561491499345" expanded="true" signature="5383:5473" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -236,10 +233,10 @@
         <option value="$PROJECT_DIR$/Main.cs" />
         <option value="$PROJECT_DIR$/TemperatureSensor.cs" />
         <option value="$PROJECT_DIR$/Measurement.cs" />
-        <option value="$PROJECT_DIR$/WeatherStation.cs" />
         <option value="$PROJECT_DIR$/Client.cs" />
         <option value="$PROJECT_DIR$/Server.cs" />
         <option value="$PROJECT_DIR$/Sensor.cs" />
+        <option value="$PROJECT_DIR$/WeatherStation.cs" />
         <option value="$PROJECT_DIR$/Test.cs" />
       </list>
     </option>
@@ -342,12 +339,12 @@
       <workItem from="1559316951097" duration="7792000" />
       <workItem from="1559637889837" duration="7728000" />
       <workItem from="1560269088430" duration="5259000" />
-      <workItem from="1561486518900" duration="885000" />
+      <workItem from="1561486518900" duration="3926000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60836000" />
+    <option name="totallyTimeSpent" value="63877000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -362,12 +359,12 @@
     <frame x="947" y="6" width="959" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19466074" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.033370413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.91006714" visible="true" weight="0.2384702" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.91006714" visible="true" weight="0.39145106" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -380,7 +377,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49781182" weight="0.32905984" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.08993289" side_tool="true" weight="0.33009708" />
-      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.48657718" weight="0.32264957" />
+      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.48657718" weight="0.32170978" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -469,22 +466,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Server.cs" />
-    <entry file="file://$PROJECT_DIR$/WeatherStation.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-          <folding>
-            <marker date="1559116279650" expanded="true" signature="6:183" ph="..." />
-            <marker date="1559116279650" expanded="true" signature="214:1607" ph="{...}" />
-            <marker date="1559116279650" expanded="true" signature="396:1605" ph="{...}" />
-            <marker date="1559116279650" expanded="true" signature="579:1159" ph="{...}" />
-            <marker date="1559116279650" expanded="true" signature="591:1149" ph="/* PressureSensor pSensor = new PressureSensor { pressure = 21 }; ... */" />
-            <marker date="1559116279650" expanded="true" signature="1241:1598" ph="{...}" />
-            <marker date="1559116279650" expanded="true" signature="1360:1588" ph="/* foreach (KeyValuePair&lt;string, double&gt; measure in measurements) ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Measurement.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -597,30 +578,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/Microsoft.Common.CurrentVersion.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="4193" column="4" selection-start-line="4193" selection-start-column="4" selection-end-line="4193" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherStation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="43" column="39" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+          <folding>
+            <marker date="1561489458973" expanded="true" signature="6:183" ph="..." />
+            <marker date="1561489458973" expanded="true" signature="214:1706" ph="{...}" />
+            <marker date="1561489458973" expanded="true" signature="396:1704" ph="{...}" />
+            <marker date="1561489458973" expanded="true" signature="579:1159" ph="{...}" />
+            <marker date="1561489458973" expanded="true" signature="591:1149" ph="/* PressureSensor pSensor = new PressureSensor { pressure = 21 }; ... */" />
+            <marker date="1561489458973" expanded="true" signature="1241:1598" ph="{...}" />
+            <marker date="1561489458973" expanded="true" signature="1360:1588" ph="/* foreach (KeyValuePair&lt;string, double&gt; measure in measurements) ... */" />
+            <marker date="1561489458973" expanded="true" signature="1644:1697" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Test.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="116" column="51" lean-forward="true" selection-start-line="116" selection-start-column="51" selection-end-line="116" selection-end-column="51" />
+        <state relative-caret-position="266">
+          <caret line="55" column="47" lean-forward="true" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
           <folding>
-            <marker date="1561486945177" expanded="true" signature="6:161" ph="..." />
-            <marker date="1561486945177" expanded="true" signature="192:5495" ph="{...}" />
-            <marker date="1561486945177" expanded="true" signature="216:5488" ph="{...}" />
-            <marker date="1561486945177" expanded="true" signature="269:2214" ph="{...}" />
-            <marker date="1561486945177" expanded="true" signature="754:1118" ph="/* ----------------------------------------------------------- ... */" />
-            <marker date="1561486945177" expanded="true" signature="1190:2026" ph="/* -------------------------------------------------------------- ... */" />
-            <marker date="1561486945177" expanded="true" signature="2278:3067" ph="{...}" />
-            <marker date="1561486945177" expanded="true" signature="3002:3057" ph="{...}" />
-            <marker date="1561486945177" expanded="true" signature="3133:3413" ph="{...}" />
-            <marker date="1561486945177" expanded="true" signature="3188:3401" ph="{...}" />
-            <marker date="1561486945177" expanded="true" signature="3213:3387" ph="{...}" />
-            <marker date="1561486945177" expanded="true" signature="3467:5473" ph="{...}" />
-            <marker date="1561486945177" expanded="true" signature="3494:5094" ph="{...}" />
-            <marker date="1561486945177" expanded="true" signature="3525:3740" ph="/* Create a TcpClient. ... */" />
-            <marker date="1561486945177" expanded="true" signature="4081:4184" ph="/* Get a client stream for reading and writing. ... */" />
-            <marker date="1561486945177" expanded="true" signature="4400:4494" ph="/* Receive the TcpServer.response. ... */" />
-            <marker date="1561486945177" expanded="true" signature="4673:4998" ph="/* Read the first batch of the TcpServer response bytes. ... */" />
-            <marker date="1561486945177" expanded="true" signature="5140:5236" ph="{...}" />
-            <marker date="1561486945177" expanded="true" signature="5276:5366" ph="{...}" />
+            <marker date="1561491499345" expanded="true" signature="6:161" ph="..." />
+            <marker date="1561491499345" expanded="true" signature="192:5602" ph="{...}" />
+            <marker date="1561491499345" expanded="true" signature="216:5595" ph="{...}" />
+            <marker date="1561491499345" expanded="true" signature="269:2224" ph="{...}" />
+            <marker date="1561491499345" expanded="true" signature="801:1165" ph="/* ----------------------------------------------------------- ... */" />
+            <marker date="1561491499345" expanded="true" signature="1237:2073" ph="/* -------------------------------------------------------------- ... */" />
+            <marker date="1561491499345" expanded="true" signature="2293:3171" ph="{...}" />
+            <marker date="1561491499345" expanded="true" signature="2808:3129" ph="/* var fileName = @&quot;C:\Users\Kuba\Desktop\JSON_C##\file&quot;+ DateTime.Now.ToString(&quot;--dd-MM-yyyyTHHmm&quot;) +&quot;.json&quot;; ... */" />
+            <marker date="1561491499345" expanded="true" signature="3237:3520" ph="{...}" />
+            <marker date="1561491499345" expanded="true" signature="3292:3508" ph="{...}" />
+            <marker date="1561491499345" expanded="true" signature="3317:3494" ph="{...}" />
+            <marker date="1561491499345" expanded="true" signature="3574:5580" ph="{...}" />
+            <marker date="1561491499345" expanded="true" signature="3601:5201" ph="{...}" />
+            <marker date="1561491499345" expanded="true" signature="3632:3847" ph="/* Create a TcpClient. ... */" />
+            <marker date="1561491499345" expanded="true" signature="4188:4291" ph="/* Get a client stream for reading and writing. ... */" />
+            <marker date="1561491499345" expanded="true" signature="4507:4601" ph="/* Receive the TcpServer.response. ... */" />
+            <marker date="1561491499345" expanded="true" signature="4780:5105" ph="/* Read the first batch of the TcpServer response bytes. ... */" />
+            <marker date="1561491499345" expanded="true" signature="5247:5343" ph="{...}" />
+            <marker date="1561491499345" expanded="true" signature="5383:5473" ph="{...}" />
           </folding>
         </state>
       </provider>

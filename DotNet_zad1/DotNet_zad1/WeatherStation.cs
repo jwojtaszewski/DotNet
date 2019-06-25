@@ -45,5 +45,10 @@ namespace ConsoleApplication1
 //            } 
         }
 
+        public void addSensor(Sensor sensor)
+        {
+            sensors.Add(sensor);
+        }
+
     }
 }

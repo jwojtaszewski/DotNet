@@ -16,6 +16,7 @@ namespace ConsoleApplication1
             TemperatureSensor tSensor = new TemperatureSensor { degrees = "C", temperature = 30,Name="sensor Temp" };
             
             WeatherStation weatherStation = new WeatherStation();
+            weatherStation.addSensor(tSensor);
 
             tSensor.sensorEvent += weatherStation.subscribeMeasurement;
             tSensor.addMeasurement("temp", tSensor.temperature);
@@ -50,14 +51,13 @@ namespace ConsoleApplication1
 //                Console.WriteLine(temperature);
 //                
 //            }
-            Connect(tSensor.getTemperature());
-            periodicSave(weatherStation);
+            Connect(convertToJSON(weatherStation));
 
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
         }
 
-        private static void SaveToJSON(WeatherStation station)
+        private static String convertToJSON(WeatherStation station)
         {
             WeatherStation weatherStation = station;
             
@@ -70,15 +70,18 @@ namespace ConsoleApplication1
             StreamReader sr = new StreamReader(stream1);
             string jsonString = sr.ReadToEnd();
             
+            Console.WriteLine(jsonString);
 
-            var fileName = @"C:\Users\Kuba\Desktop\JSON_C#\file"+ DateTime.Now.ToString("--dd-MM-yyyyTHHmm") +".json";
-            Console.WriteLine(fileName);
-            
+//            var fileName = @"C:\Users\Kuba\Desktop\JSON_C#\file"+ DateTime.Now.ToString("--dd-MM-yyyyTHHmm") +".json";
+//            Console.WriteLine(fileName);
+//            
 
-            using (StreamWriter file = File.CreateText(fileName))
-            {
-                file.Write(jsonString);
-            }
+//            using (StreamWriter file = File.CreateText(fileName))
+//            {
+//                file.Write(jsonString);
+//            }
+
+            return jsonString;
         }
 
         private static void periodicSave(WeatherStation station)
@@ -88,7 +91,7 @@ namespace ConsoleApplication1
                 {
                     Console.WriteLine("file save");
                     await Task.Delay(10000);
-                    SaveToJSON(station);
+                    convertToJSON(station);
                 }
             });
         }
