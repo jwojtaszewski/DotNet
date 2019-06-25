@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59aaf8c1-f104-4b3d-a5e9-05b9b43cb47f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Test.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Test.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherStation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherStation.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/DotNet_zad1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/DotNet_zad1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/DotNet_zad1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/DotNet_zad1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/DotNet_zad1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/DotNet_zad1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/DotNet_zad1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/DotNet_zad1.pdb" afterDir="false" />
-    </list>
+    <list default="true" id="59aaf8c1-f104-4b3d-a5e9-05b9b43cb47f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -339,12 +332,12 @@
       <workItem from="1559316951097" duration="7792000" />
       <workItem from="1559637889837" duration="7728000" />
       <workItem from="1560269088430" duration="5259000" />
-      <workItem from="1561486518900" duration="3926000" />
+      <workItem from="1561486518900" duration="4186000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63877000" />
+    <option name="totallyTimeSpent" value="64137000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -357,7 +350,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="947" y="6" width="959" height="1000" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.033370413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

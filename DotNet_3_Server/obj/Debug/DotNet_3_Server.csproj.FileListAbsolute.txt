@@ -1,0 +1,6 @@
+C:\Users\Kuba\RiderProjects\DotNet_3_Server\DotNet_3_Server\bin\Debug\DotNet_3_Server.exe
+C:\Users\Kuba\RiderProjects\DotNet_3_Server\DotNet_3_Server\bin\Debug\DotNet_3_Server.pdb
+C:\Users\Kuba\RiderProjects\DotNet_3_Server\DotNet_3_Server\obj\Debug\DotNet_3_Server.csprojAssemblyReference.cache
+C:\Users\Kuba\RiderProjects\DotNet_3_Server\DotNet_3_Server\obj\Debug\DotNet_3_Server.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\RiderProjects\DotNet_3_Server\DotNet_3_Server\obj\Debug\DotNet_3_Server.exe
+C:\Users\Kuba\RiderProjects\DotNet_3_Server\DotNet_3_Server\obj\Debug\DotNet_3_Server.pdb
